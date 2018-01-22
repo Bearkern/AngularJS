@@ -1,0 +1,14 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "browser-sync start --config bs-config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.5"
+  }
+}
